@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Brillen
-date: 2021-11-01T07:45:00.000+00:00
+date: 2021-11-01 07:45:00 +0000
 author: Oliver Krech
 categories:
 - project
