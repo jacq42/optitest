@@ -5,7 +5,8 @@ date: 2014-04-25T16:54:46.000+00:00
 author: Oliver Krech
 categories:
 - project
-img: portfolio_10.jpg
+img: jess-bailey-WeCoLo0Rxp4-unsplash.jpg
+photo by: 
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
