@@ -1,7 +1,7 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-4">
                 <h4>Öffnungszeiten</h4>
                 <div class="hline-w"></div>
                 <p>
@@ -10,8 +10,16 @@
                     {% endfor %}
                 </p>
             </div>
-            
-            <div class="col-lg-6">
+            <div class="col-lg-4">
+                <h4>Erreichbarkeit</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for line in site.contact.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
+            </div>
+            <div class="col-lg-4">
                 <h4>Adresse</h4>
                 <div class="hline-w"></div>
                 <p>

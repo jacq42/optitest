@@ -55,8 +55,14 @@ telefon: +49 555 123456
 # Öffnungszeiten (add as many lines as necessary). Shown in footer and on Contact page.
 businesshours:
   - lines:
-    - Mo.- Fr. 9:00 - 18:00
-    - Sa. 9:00 - 14:00
+    - Mo.- Fr. 8:30 - 13:00, 14:30 - 18:00
+    - Sa. 9:00 - 13:00
+    
+# Erreichbarkeit. Shown in footer and on Contact page.
+contact:
+  - lines:
+    - Tel. 555 - 12345
+    - WhatsApp: 555 - 12345    
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 

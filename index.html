@@ -11,19 +11,31 @@ permalink: /
                 <i class="far fa-clock"></i>
                 <span class="sr-only">An image of a watch</span>
                 <h4>Öffnungszeiten</h4>
-                <p>Mo.- Fr. 8:30 - 13:00<br/>14:30 - 18:00<br/>Sa. 9:00 - 13:00</p>
+                <p>
+                    {% for line in site.businesshours.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
             </div>
             <div class="col-md-4">
                 <i class="fas fa-home"></i>
                 <span class="sr-only">An image of a house</span>
                 <h4>Adresse</h4>
-                <p>Hindenburgstraße 5A<br/>37441 Bad Sachsa</p>
+                <p>
+                    {% for line in site.address.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
             </div>
             <div class="col-md-4">
             	<i class="fas fa-phone"></i>
                 <span class="sr-only">An image of a trophy</span>
                 <h4>Erreichbarkeit</h4>
-                <p>Tel. 555 - 12345<br/>WhatsApp: 555 - 12345</p>
+                <p>
+                    {% for line in site.phone.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
             </div>
         </div>
     </div><!--/container -->
