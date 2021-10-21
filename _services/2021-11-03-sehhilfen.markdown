@@ -1,6 +1,7 @@
 ---
 layout: project
 title: "Vergrößernde Sehhilfen"
+date: 2021-10-01T07:45:00.000+00:00
 author: Oliver Krech
 categories:
 - project
