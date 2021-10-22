@@ -68,21 +68,21 @@ contact:
 members:
   - name: Oliver Krech
     position: Augenoptikermeister
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: 
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: XXX
     position: Augenoptikerin
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: 
     img: team03.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: XXX
     position: Praktikant
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: 
     img: team04.jpg
     social:
       - title: envelope #use for email address
