@@ -9,7 +9,7 @@ img: deena-englard-RJrCj87zPJc-unsplash.jpg
 photo by: 
 thumb: thumb02.jpg
 carousel:
-- "/sp-studio.jpg"
+- " /sp-studio.jpg"
 - blocks-0r1ci4rb9ju-unsplash.jpg
 - lensabl-0GfPlommtxM-unsplash.jpg
 - chuttersnap-G8ioIHUDfNc-unsplash.jpg
