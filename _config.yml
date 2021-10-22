@@ -70,23 +70,18 @@ members:
     position: Augenoptikermeister
     text: 
     img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
+    # Wenn Anzeige eines Overlays mit Email Möglichkeit, dann nachfolgende Zeilen wieder aktivieren
+    #social:
+      #- title: envelope #use for email address
+       # url: mailto:name@domain.com
   - name: XXX
     position: Augenoptikerin
     text: 
     img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
   - name: XXX
     position: Praktikant
     text: 
     img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
 
 # Marken Informationen. Auf Home und About pages.
 marken:
