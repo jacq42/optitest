@@ -3,7 +3,6 @@ layout: index
 title: Home
 permalink: "/"
 headerimage: "/uploads/glasses-6690310_640.jpg"
-published: false
 
 ---
 <div id="service">
