@@ -8,9 +8,9 @@ categories:
 img: david-travis-aVvZJC0ynBQ-unsplash.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- "/uploads/single01.jpg"
+- "/uploads/single02.jpg"
+- "/uploads/single03.jpg"
 tagged: Services, Leistungen
 ---
 #### Serviceleistungen
