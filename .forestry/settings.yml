@@ -28,7 +28,7 @@ sections:
   create: all
 upload_dir: assets/img/service/carousel
 public_path: ''
-front_matter_path: ''
+front_matter_path: " "
 use_front_matter_path: true
 file_template: ":filename:"
 build:
