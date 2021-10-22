@@ -14,5 +14,9 @@ fields:
 - type: file
   name: headerimage
   label: headerimage
+- name: headercarousel
+  type: image_gallery
+  config: {}
+  label: headercarousel
 pages:
 - home.md
