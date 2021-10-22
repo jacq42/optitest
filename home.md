@@ -2,7 +2,6 @@
 layout: index
 title: Home
 permalink: "/"
-headerimage: "/uploads/scott-van-daalen-usalndok2m4-unsplash.jpg"
 headercarousel:
 - "/uploads/glasses-6690310_640.jpg"
 - "/uploads/deena-englard-RJrCj87zPJc-unsplash.jpg"
