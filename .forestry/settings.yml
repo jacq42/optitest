@@ -26,9 +26,9 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: assets/img/service/carousel
-public_path: "/assets/img/service/carousel"
-front_matter_path: ''
+upload_dir: assets/img/uploads
+public_path: "/assets/img/uploads"
+front_matter_path: "/uploads"
 use_front_matter_path: true
 file_template: ":filename:"
 build:
