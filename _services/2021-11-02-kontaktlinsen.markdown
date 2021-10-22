@@ -9,9 +9,8 @@ img: arteum-ro-7H41oiADqqg-unsplash.jpg
 thumb: thumb02.jpg
 carousel:
 - "/uploads/single01.jpg"
-- "/uploads/single02.jpg"
-- "/uploads/single03.jpg"
 tagged: Service, Leistungen, Kontaktlinsen
+
 ---
 #### Kontaktlinsen
 
