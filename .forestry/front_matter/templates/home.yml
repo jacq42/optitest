@@ -11,9 +11,6 @@ fields:
 - type: text
   name: permalink
   label: permalink
-- type: file
-  name: headerimage
-  label: headerimage
 - name: headercarousel
   type: image_gallery
   config: {}
