@@ -1,6 +1,7 @@
 <div class="col-lg-10 col-lg-offset-1 centered">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
+        size = {% page.carousel.size %}
         <ol class="carousel-indicators">
             {% for img in page.carousel %}
                 <li data-target="#carousel-example-generic" data-slide-to="{{ forloop.index0 }}" 
