@@ -14,3 +14,5 @@ fields:
 - type: file
   name: headerimage
   label: headerimage
+pages:
+- home.md
