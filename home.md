@@ -4,9 +4,7 @@ title: Home
 permalink: "/"
 headerimage: "/uploads/scott-van-daalen-usalndok2m4-unsplash.jpg"
 headercarousel:
-- "/uploads/blocks-0r1ci4rb9ju-unsplash.jpg"
-- "/uploads/lensabl-0GfPlommtxM-unsplash.jpg"
-- "/uploads/chuttersnap-G8ioIHUDfNc-unsplash.jpg"
+- "/uploads/glasses-6690310_640.jpg"
 - "/uploads/deena-englard-RJrCj87zPJc-unsplash.jpg"
 
 ---
