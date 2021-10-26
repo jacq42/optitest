@@ -191,8 +191,8 @@ a:focus {
 }
 
 .mtb {
-	margin-top: 80px;
-	margin-bottom: 80px;
+	margin-top: 0px;
+	margin-bottom: 40px;
 }
 
 .mb {
@@ -223,7 +223,7 @@ a:focus {
 	text-align: center;
 }
 
-#headerwrap h3, h5 {
+#headerwrap h3 {
 	color: white;
 	font-weight: 400;
 }
@@ -387,7 +387,7 @@ a:focus {
 #blue {
 	background: {{ site.colors.primary }};
 	margin-top: 60px;
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 }

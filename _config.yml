@@ -44,8 +44,8 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Hindenburgstr. 5A
-    - 37441 Bad Sachsa
+    - <a href="https://goo.gl/maps/c3CVzCiJP2owCN3AA">Hindenburgstr. 5A</a>
+    - <a href="https://goo.gl/maps/c3CVzCiJP2owCN3AA">37441 Bad Sachsa</a>
 
 email: hello@optikrech.de
 
@@ -54,13 +54,13 @@ telefon: +49 555 123456
 # Öffnungszeiten (add as many lines as necessary). Shown in footer and on Contact page.
 businesshours:
   - lines:
-    - Mo.- Fr. 8:30 - 13:00, 14:30 - 18:00
+    - Mo - Fr. 8:30 - 13:00 u. 14:30 - 18:00
     - Sa. 9:00 - 13:00
     
 # Erreichbarkeit. Shown in footer and on Contact page.
 contact:
   - lines:
-    - Tel. 05523 - 93006
+    - <a href="tel:+49552393006">Tel. +49 (0)5523 - 93006</a>
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
