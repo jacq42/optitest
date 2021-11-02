@@ -44,8 +44,8 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - <a href="https://goo.gl/maps/c3CVzCiJP2owCN3AA">Hindenburgstr. 5A</a>
-    - <a href="https://goo.gl/maps/c3CVzCiJP2owCN3AA">37441 Bad Sachsa</a>
+    - <a href="https://www.openstreetmap.org/?mlat=51.59808&mlon=10.54950#map=18/51.59788/10.55011" target="_blank">Hindenburgstr. 5A</a>
+    - <a href="https://www.openstreetmap.org/?mlat=51.59808&mlon=10.54950#map=18/51.59788/10.55011" target="_blank">37441 Bad Sachsa</a>
 
 email: hello@optikrech.de
 
