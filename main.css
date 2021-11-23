@@ -90,6 +90,12 @@ body, html {
 
 #text .title {
   font-size: 3em;
+  margin-bottom: 0;
+}
+
+#text .subtitle {
+  font-size: 1.5em;
+  margin-top: 0;
 }
 
 #text .info {
